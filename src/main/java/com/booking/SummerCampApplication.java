@@ -6,7 +6,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 
  * Added some comment for the sake of it, but not done yet.
- * JUst have a look.
+ * Just have a look.
+ * 
+ * Things to note is that I am about to expand this project soon!
  *
  ***/
 
